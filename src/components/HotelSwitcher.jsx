@@ -258,7 +258,7 @@ export default function HotelSwitcher({ compact = false }) {
               </span>
               <span style={{ fontSize: 11, color: 'var(--text-muted)', display: 'flex', alignItems: 'center', gap: 4 }}>
                 <span style={{ width: 6, height: 6, borderRadius: '50%', background: '#3a9b65', display: 'inline-block' }} />
-                Live
+                Live data
               </span>
             </div>
           </motion.div>
